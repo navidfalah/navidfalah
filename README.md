@@ -51,8 +51,3 @@
 <a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
----
-Credit: [KevinPatel04](https://github.com/KevinPatel04)
-
-Last Updated On: 13/06/2021
