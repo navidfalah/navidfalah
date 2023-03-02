@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Navid Falah </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a softwre engineer <br>Soon, I would be joining .... for Computer Science program.</p>
+<p align="center" width="150px"> I might be a softwre engineer but <br>Soon, I would be joining .... for a reason...</p>
 
 
 ### 🛠 &nbsp;Tech Stack
