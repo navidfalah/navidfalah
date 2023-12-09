@@ -28,8 +28,8 @@ me.say_hello()
 ## 🚀 Quick Stats
 
 ```text
-🧠 Known Languages: Python, R, Java
-🤖 Favorite Tools: Jupyter, TensorFlow, PyTorch
+🧠 Known Languages: Python, CPP, Java
+🤖 Favorite Tools: Jupyter, TensorFlow, PyTorch, Django
 🔧 Currently Working On: Spotify popularity estimator
 📚 Currently Learning: Advanced Deep Learning Techniques
 ```
