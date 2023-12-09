@@ -33,12 +33,3 @@ me.say_hello()
 🔧 Currently Working On: Spotify popularity estimator
 📚 Currently Learning: Advanced Deep Learning Techniques
 ```
-
-## 📊 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📚 Favorite Repositories
-
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical)](https://github.com/yourusername/repo1)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/yourusername/repo2)
