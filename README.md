@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - 💻 **Software Engineer** with a deep interest in **AI/ML**, **Deep Learning**, and **NLP**.
 - 🌱 Currently working on **AI-powered software systems** and **backend architectures**.
 - 🎯 Aiming to improve my coding skills while sharing AI-related projects on GitHub.
-- 🌍 Fluent in **English** and learning **German** (A2 level).
+- 🌍 Fluent in **English**.
 - 📧 **Email**: [navid.falah7@gmail.com](mailto:navid.falah7@gmail.com)
 
 ---
