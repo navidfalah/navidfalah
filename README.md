@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - 💻 **Software Engineer** with a deep interest in **AI/ML**, **Deep Learning**, and **NLP**.
 - 🌱 Currently working on **AI-powered software systems** and **backend architectures**.
 - 🎯 Aiming to improve my coding skills while sharing AI-related projects on GitHub.
-- 🌍 Fluent in **English** and learning **German** (A2 level).
+- 🌍 Fluent in **English**.
 - 📧 **Email**: [navid.falah7@gmail.com](mailto:navid.falah7@gmail.com)
 
 ---
@@ -71,8 +71,6 @@ Exploring the power of transformer models in deep learning for various NLP tasks
 
 - 📧 **Email**: [navid.falah7@gmail.com](mailto:navid.falah7@gmail.com)
 - 🧑‍💻 **LinkedIn**: [Navid Falah](https://www.linkedin.com/in/navidfalah)
-- 🦸‍♂️ **Twitter**: [@navidfalah](https://twitter.com/navidfalah)
-- 🌍 **Personal Blog**: [navidfalah.dev](https://navidfalah.dev)
 
 ---
 
@@ -81,10 +79,3 @@ Exploring the power of transformer models in deep learning for various NLP tasks
 - **Deep Learning**: Advanced techniques in CNNs, RNNs, and Transfer Learning
 - **NLP**: Transformers, BERT, GPT, and text generation
 - **Backend Development**: Building scalable APIs with GraphQL and microservices architecture
-
----
-
-## 📚 Latest Blog Posts
-
-- [Exploring NLP with Transformers](https://navidfalah.dev/blog/nlp-transformers)
-- [Building a Scalable Backend with Node.js](https://navidfalah.dev/blog/scalable-backend-nodejs)
