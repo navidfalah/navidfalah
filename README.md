@@ -1,4 +1,4 @@
-# Navid Falah (he/him)
+# Navid Falah
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong focus on **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**. My work blends backend development and AI to create scalable and intelligent software solutions.
 
