@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 **Languages**: Python, JavaScript, Java, C++  
 **AI Frameworks**: TensorFlow, PyTorch, FastAI, Scikit-Learn, Keras  
-**Backend**: Node.js, Express, Flask, Django, GraphQL, REST APIs  
-**Databases**: MySQL, PostgreSQL, MongoDB  
+**Backend**: Flask, Django, GraphQL, REST APIs  
+**Databases**: MySQL, PostgreSQL, sqlite  
 **Tools**: Docker, Git, VS Code, Jupyter Notebooks  
 **Others**: LaTeX, OpenCV, Matplotlib, Pandas, Numpy  
 
