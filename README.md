@@ -32,8 +32,3 @@ I’m self-studying German because I’m genuinely passionate about building my 
 I’m always happy to chat about HCI, UX, sustainable technologies, or new opportunities.  
 
 Feel free to reach out — whether you have an interesting project, a research idea, or just want to say hello.
-
----
-
-*Currently based in Siegen, Germany*  
-*Open to full-time roles in HCI/UX, digital product development, or software engineering after graduation*
