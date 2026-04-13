@@ -10,8 +10,9 @@
 ### ✦ Developer Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navidfalah&show_icons=true&theme=transparent&hide_border=true&title_color=0096c8&icon_color=0096c8&text_color=333333" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidfalah&layout=compact&theme=transparent&hide_border=true&title_color=0096c8&text_color=333333" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=navidfalah&show_icons=true&theme=transparent&hide_border=true&title_color=0096c8&icon_color=0096c8&text_color=333333" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidfalah&layout=compact&theme=transparent&hide_border=true&title_color=0096c8&text_color=333333" alt="Top Langs" />
 </div>
 
 <br>
