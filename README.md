@@ -1,49 +1,39 @@
-# Navid Falah
-### Software Engineer | Full-Stack & Machine Learning | M.Sc. HCI Candidate
+# Hi there 👋
 
-Software Engineer with over 4 years of experience specializing in the development of scalable, high-performance systems. My expertise bridges the gap between robust backend architectures (Django, FastAPI) and intuitive, user-centric frontends (React). I leverage my background in Human-Computer Interaction to deliver technically sound solutions that prioritize usability and performance.
-
----
-
-### Professional Philosophy
-I am committed to engineering systems that are not only functional but also maintainable and scalable. My approach integrates rigorous backend benchmarking, automated CI/CD workflows, and clean code standards. With a dual background in industry and research, I apply data-driven insights to solve complex software challenges.
+I'm **Navid Falah** — a Master's student in **Human-Computer Interaction (HCI)** at the University of Siegen.
 
 ---
 
-### Core Competencies
+### About me
 
-**Systems & Architecture**
-- Full-Stack Development (React, Django, Flask)
-- Distributed Systems & Message Queues (RabbitMQ, Kafka, Celery)
-- Containerization & Orchestration (Docker, Kubernetes)
-- Cloud Infrastructure (AWS, GCP, Azure)
+I’m progressing steadily through my studies and on track to complete my Master’s thesis in the coming semesters.  
 
-**AI & Research Engineering**
-- Machine Learning Implementation (PyTorch, TensorFlow, Scikit-learn)
-- Natural Language Processing (NLP) & Advanced Text Analytics
-- Automated Data Acquisition (Selenium, Web Scraping at scale)
+I’ve had the opportunity to publish papers at the intersection of **natural language processing**, **sustainability**, and **urban planning**. Alongside my academic work, I’ve gained practical experience in Germany as a Werkstudent in user behaviour analysis, design, and software development.  
 
-**Tools & Databases**
-- PostgreSQL, MySQL, Redis, MongoDB
-- CI/CD Pipelines (GitHub Actions, Jenkins)
-- Linux System Administration
+I’m self-studying German because I’m genuinely passionate about building my future and career here. I love creating meaningful digital experiences that bring together research, design, and real-world impact.
 
 ---
 
-### Key Research & Impact
-In collaboration with the University of Seville, I have contributed to high-impact research (Impact Factor: 10.5) focusing on:
-- Developing multi-algorithmic frameworks for urban sustainability indicators.
-- Implementing NLP models for advanced text analytics in circular economy contexts.
+### Skills & Tools
+
+- Human-Computer Interaction (HCI)  
+- User Experience (UX) Design  
+- User Behaviour Analysis  
+- Natural Language Processing (NLP)  
+- Software Development  
+- Design & Prototyping  
+- Digital Product Development  
+- Research & Academic Writing  
 
 ---
 
-### Education
-- **M.Sc. Human-Computer Interaction** | University of Siegen, Germany (Ongoing)
-- **B.Sc. Computer Science** | Amirkabir University of Technology, Iran
+### Let’s connect
+
+I’m always happy to chat about HCI, UX, sustainable technologies, or new opportunities.  
+
+Feel free to reach out — whether you have an interesting project, a research idea, or just want to say hello.
 
 ---
 
-### Contact & Connect
-- **Email:** Navid.Falah@student.uni-siegen.de
-- **LinkedIn:** [linkedin.com/in/navidfalah](https://linkedin.com/in/navidfalah)
-- **Location:** Siegen, Germany
+*Currently based in Siegen, Germany*  
+*Open to full-time roles in HCI/UX, digital product development, or software engineering after graduation*
